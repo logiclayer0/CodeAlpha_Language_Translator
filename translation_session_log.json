@@ -1,0 +1,23 @@
+[
+    {
+        "timestamp": "2026-06-27T17:16:33.835569",
+        "source_lang": "English",
+        "target_lang": "Hindi",
+        "input_bytes": 72,
+        "output_bytes": 80
+    },
+    {
+        "timestamp": "2026-06-27T17:23:03.682078",
+        "source_lang": "English",
+        "target_lang": "Hindi",
+        "input_bytes": 22,
+        "output_bytes": 11
+    },
+    {
+        "timestamp": "2026-06-27T17:25:19.116604",
+        "source_lang": "Hindi",
+        "target_lang": "Italian",
+        "input_bytes": 27,
+        "output_bytes": 24
+    }
+]
